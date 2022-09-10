@@ -1,4 +1,7 @@
 # Awesome-CTF
+# CTFs
+* https://ctftime.org/event/list/upcoming
+* 
 # Other Awesome-CTF Lists
 * https://github.com/apsdehal/awesome-ctf
 # DFIR CTF
